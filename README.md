@@ -1,2 +1,3 @@
 # mCitrineAHA2-quantitation
-mCitrine signal quantitation - z stack
+Fluorescent signal quantitation, z stack, 3D images/
+Written by Daniel Bsuhey: dna.bushey@gmail.com
